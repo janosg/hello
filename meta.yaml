@@ -1,0 +1,19 @@
+package:
+  name: hello
+  version: "0.0.3"
+
+source:
+  path: ../hello
+
+requirements:
+  build:
+    - python
+    - setuptools
+  run:
+    - python>=3.6
+
+about:
+  home: https://github.com/janosg/hello
+  license: MIT
+  license_file: LICENSE
+  summary: Toy package to experiment with conda's Fortran compilers.

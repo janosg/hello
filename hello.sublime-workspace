@@ -1,0 +1,1270 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cleanup",
+				"cleanup_testing_infrastructure"
+			],
+			[
+				"initial_s",
+				"initial_seeds"
+			],
+			[
+				"num_a",
+				"num_agents_est"
+			],
+			[
+				"requi",
+				"required\t(run_property.py)"
+			],
+			[
+				"run_fo",
+				"run_for_hours_parallel"
+			],
+			[
+				"axu",
+				"auxiliary_robustness"
+			],
+			[
+				"run_for_hour",
+				"run_for_hours_parallel\t(auxiliary_robustness.py)"
+			],
+			[
+				"trunce",
+				"truncate_military_history"
+			],
+			[
+				"truncate",
+				"truncate_military_history\t(auxiliary_career_decision_data.py)"
+			],
+			[
+				"prep",
+				"prepare_dataset\t(auxiliary_career_decision_data.py)"
+			],
+			[
+				"assert",
+				"assert_almost_equal"
+			],
+			[
+				"assert_",
+				"assert_almost_equal"
+			],
+			[
+				"shar",
+				"shared_constants"
+			],
+			[
+				"print",
+				"print_init_dict"
+			],
+			[
+				"P",
+				"PARALLELISM"
+			],
+			[
+				"MT",
+				"MT_Sim_run_v4_covprob_max_power_m13\t(wscript)"
+			],
+			[
+				"get_s",
+				"get_settings_dict"
+			],
+			[
+				"get_se",
+				"get_settings_file_path"
+			],
+			[
+				"import",
+				"import_information\t(import_information.py)"
+			],
+			[
+				"_crea",
+				"_create_missing_files"
+			],
+			[
+				"open",
+				"open_user_settings\t(manage_settings.py)"
+			],
+			[
+				"settings_",
+				"settings_user.json"
+			],
+			[
+				"C",
+				"Cools2015.pdf"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "hello/hello.py",
+			"settings":
+			{
+				"buffer_size": 484,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "hello/hello.f90",
+			"settings":
+			{
+				"buffer_size": 74,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "setup.py",
+			"settings":
+			{
+				"buffer_size": 321,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "meta.yaml",
+			"settings":
+			{
+				"buffer_size": 303,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				"Traditional"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 94.0,
+		"last_filter": "ssjson",
+		"selected_items":
+		[
+			[
+				"ssjson",
+				"Set Syntax: JSON"
+			],
+			[
+				"ssdi",
+				"Set Syntax: Diff"
+			],
+			[
+				"git",
+				"Preferences: GitGutter Key Bindings"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"packag",
+				"Package Control: List Packages"
+			],
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Install Package Control"
+			]
+		],
+		"width": 497.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/janos/Dropbox/Projects/hello",
+		"/home/janos/Dropbox/Projects/hello/hello"
+	],
+	"file_history":
+	[
+		"/home/janos/anaconda3/pkgs/hello-0.0.2-py36_0/info/recipe/hello/hello.py",
+		"/home/janos/.cache/.fr-MPtQyg/info/recipe/hello/hello.py",
+		"/home/janos/anaconda3/pkgs/hello-0.0.2-py36_0/info/recipe/build/lib/hello/hello.py",
+		"/home/janos/.cache/.fr-RUu5QV/lib/python3.6/site-packages/hello.pth",
+		"/home/janos/.cache/.fr-wSI7Mq/info/files",
+		"/home/janos/Dropbox/Projects/hello/hello/meta.yaml",
+		"/home/janos/Dropbox/Projects/hello/hello/setup.py",
+		"/home/janos/Dropbox/Projects/hello/hello/build.sh",
+		"/home/janos/Dropbox/Projects/hello/hello/bld.bat",
+		"/home/janos/Dropbox/Projects/hello/hello/hello.py",
+		"/home/janos/Dropbox/Projects/respy_fork/package/respy/tests/codes/random_init.py",
+		"/home/janos/Dropbox/Projects/respy_fork/package/development/testing/robustness/48154/test.respy.ini",
+		"/home/janos/Dropbox/Projects/respy_fork/package/respy/tests/codes/auxiliary.py",
+		"/home/janos/Dropbox/Projects/respy_fork/package/development/_modules/auxiliary_shared.py",
+		"/home/janos/Dropbox/Projects/respy_fork/package/development/testing/property/run_property.py",
+		"/home/janos/Dropbox/Projects/respy_fork/package/respy/python/shared/shared_auxiliary.py",
+		"/home/janos/Dropbox/Projects/respy_fork/package/development/testing/robustness/robustness.respy.info",
+		"/home/janos/Dropbox/Projects/respy_fork/package/development/testing/robustness/career_data.respy.dat",
+		"/home/janos/Dropbox/Projects/respy_fork/package/development/testing/robustness/40652/test.respy.ini",
+		"/home/janos/Dropbox/Projects/respy_fork/package/respy/tests/codes/process_constraints.py",
+		"/home/janos/Dropbox/Projects/respy_fork/package/respy/python/process/process_python.py",
+		"/home/janos/Dropbox/Projects/respy_fork/package/development/testing/robustness/12345/test.respy.ini",
+		"/home/janos/Dropbox/Projects/respy_fork/package/development/_modules/auxiliary_career_decision_data.py",
+		"/home/janos/Dropbox/Projects/respy_fork/package/development/testing/regression/run_regression.py",
+		"/home/janos/Dropbox/Documents/lebenslauf/cv_eng/cv_eng/cv_eng_janos_gabler.tex",
+		"/home/janos/Dropbox/Projects/respy_fork/package/development/_modules/auxiliary_robustness.py",
+		"/home/janos/Dropbox/Projects/respy_fork/package/development/_modules/clsMail.py",
+		"/home/janos/Dropbox/Desktop/Questions Fabian:",
+		"/home/janos/Dropbox/Desktop/QuestionsPhilipp22_03",
+		"/home/janos/Dropbox/Projects/respy_fork/package/development/testing/robustness/career_decisions_data.respy.dat",
+		"/home/janos/Dropbox/Projects/respy_fork/notebook/data.respy.sol",
+		"/home/janos/Dropbox/Projects/respy_fork/notebook/data.respy.sim",
+		"/home/janos/Dropbox/Projects/respy_fork/notebook/data.respy.dat",
+		"/home/janos/Dropbox/Projects/respy_fork/package/development/_modules/auxiliary_regression.py",
+		"/home/janos/Dropbox/Projects/respy_fork/package/respy/python/shared/shared_constants.py",
+		"/home/janos/Dropbox/Projects/respy_fork/package/respy/tests/test_f2py.py",
+		"/home/janos/Dropbox/Videos/oceans_trilogy/oceans_eleven.srt",
+		"/home/janos/Dropbox/Projects/respy_fork/package/respy/python/solve/solve_python.py",
+		"/home/janos/Dropbox/Projects/respy_fork/package/respy/python/process/process_auxiliary.py",
+		"/home/janos/Dropbox/Projects/respy_fork/package/respy/python/simulate/simulate_auxiliary.py",
+		"/home/janos/Dropbox/Projects/respy_fork/package/respy/tests/test_versions.py",
+		"/home/janos/Dropbox/Projects/respy_fork/package/respy/fortran/parallelism/parallelism_auxiliary.f90",
+		"/home/janos/Dropbox/Projects/respy_fork/package/respy/fortran/shared/shared_auxiliary.f90",
+		"/home/janos/Dropbox/Projects/respy_fork/package/respy/python/solve/solve_auxiliary.py",
+		"/home/janos/Dropbox/Projects/respy_fork/package/respy/fortran/solve/solve_fortran.f90",
+		"/home/janos/Dropbox/Projects/respy_fork/package/respy/tests/test_parallelism.py",
+		"/home/janos/Dropbox/Projects/respy_fork/package/development/testing/property/.draws.respy.test",
+		"/home/janos/Dropbox/Projects/respy_fork/package/development/testing/property/investigate.py",
+		"/home/janos/Dropbox/Desktop/[3792, 3793, 3794, 3795, 3796, 3797, 3798, 3799]",
+		"/home/janos/Dropbox/Projects/respy_fork/package/respy/fortran/solve/solve_auxiliary.f90",
+		"/home/janos/Dropbox/Projects/respy_fork/package/development/_modules/auxiliary_property.py",
+		"/home/janos/Dropbox/Projects/respy_fork/package/development/testing/property/acropolis.pbs",
+		"/home/janos/Dropbox/Desktop/desired.txt",
+		"/home/janos/Dropbox/Desktop/real.txt",
+		"/home/janos/Dropbox/Projects/respy_fork/package/.gitignore",
+		"/home/janos/Dropbox/Projects/respy_fork/package/development/testing/regression/test.respy.ini",
+		"/home/janos/Dropbox/Projects/respy_fork/package/respy/fortran/record/record_solution.f90",
+		"/home/janos/Dropbox/Desktop/Ideas Programming Course",
+		"/home/janos/Dropbox/Projects/respy_fork/package/development/testing/regression/est.respy.info",
+		"/home/janos/Dropbox/Projects/respy_fork/package/respy/__init__.py",
+		"/home/janos/Dropbox/Projects/respy_fork/package/respy/estimate.py",
+		"/home/janos/Dropbox/Projects/respy_fork/package/respy/waf",
+		"/home/janos/Dropbox/Projects/respy_fork/package/respy/wscript",
+		"/home/janos/Dropbox/Projects/respy_fork/package/respy/fortran/wscript",
+		"/home/janos/.credentials",
+		"/home/janos/.bashrc",
+		"/home/janos/Dropbox/Projects/original_respy/package/respy/__init__.py",
+		"/home/janos/Dropbox/Projects/respy_fork/package/development/testing/regression/acropolis.pbs",
+		"/home/janos/Dropbox/Projects/respy_fork/package/respy/tests/resources/regression_vault.respy.json",
+		"/home/janos/Dropbox/Projects/respy_fork/package/respy/fortran/shared/shared_interface.f90",
+		"/home/janos/Dropbox/Projects/respy_fork/package/respy/tests/resources/f2py_interface.f90",
+		"/home/janos/Dropbox/Projects/respy_fork/package/respy/tests/resources/kw_test_additions.f90",
+		"/home/janos/Dropbox/Projects/respy_fork/package/respy/tests/test_restud.py",
+		"/home/janos/Dropbox/Projects/respy_fork/package/respy/python/record/record_solution.py",
+		"/home/janos/Dropbox/Projects/respy_fork/package/respy/fortran/parallelism/parallelism_slave.f90",
+		"/tmp/tmp0vcc7ryq/est.respy.log",
+		"/tmp/tmpssxs4dmb/est.respy_old.log",
+		"/home/janos/Dropbox/Projects/respy_fork/package/respy/.config",
+		"/home/janos/Dropbox/Projects/respy_fork/package/respy/python/interface.py",
+		"/home/janos/Dropbox/Projects/respy_fork/package/respy/python/record/record_estimation.py",
+		"/tmp/tmpmq78jlp_/data.respy.sol",
+		"/home/janos/Dropbox/Projects/respy_fork/package/respy/.bld/recording_solution.mod",
+		"/tmp/tmpve96m59n/est.respy.log",
+		"/home/janos/Dropbox/Projects/respy_fork/package/respy/fortran/record/record_estimation.f90",
+		"/tmp/tmpjx17e4t0/est.respy.log",
+		"/tmp/tmpjx17e4t0/est.respy._old.log",
+		"/tmp/tmpjx17e4t0/est.respy_old.log",
+		"/tmp/tmp9m8_koso/est.respy.log",
+		"/tmp/tmpr1taxe35/est.respy.log",
+		"/home/janos/Dropbox/Projects/respy_fork/package/respy/fortran/solve/solve_risk.f90",
+		"/home/janos/Dropbox/Projects/respy_fork/package/respy/tests/test_integration.py",
+		"/home/janos/Dropbox/Projects/respy_fork/package/respy/tests/resources/kw_data_one.ini",
+		"/home/janos/Dropbox/Projects/respy_fork/package/respy/tests/resources/reliability_short.ini",
+		"/home/janos/Dropbox/Projects/respy_fork/package/respy/tests/resources/kw_data_two.ini",
+		"/home/janos/Dropbox/Projects/respy_fork/package/respy/tests/resources/kw_data_three.ini",
+		"/home/janos/Dropbox/Projects/respy_fork/package/respy/tests/resources/kw_data_one_initial.ini",
+		"/home/janos/Dropbox/Projects/respy_fork/package/respy/tests/resources/kw_data_one_types.ini",
+		"/home/janos/Dropbox/Projects/respy_fork/package/example/kw_data_one.ini",
+		"/home/janos/Dropbox/Projects/respy_fork/package/remove_ambi_dev _backup.diff",
+		"/home/janos/Dropbox/Projects/respy_fork/package/remove_ambi_dev.diff",
+		"/home/janos/Dropbox/Projects/respy_fork/package/respy/fortran/evaluate/evaluate_fortran.f90",
+		"/home/janos/Dropbox/Projects/respy_fork/package/interface.diff",
+		"/home/janos/Dropbox/Projects/respy_fork/package/respy/fortran/interface.py",
+		"/home/janos/Dropbox/Projects/respy_fork/package/respy/fortran/resfort.f90",
+		"/home/janos/Dropbox/Projects/respy_fork/package/respy/python/read/read_python.py",
+		"/home/janos/Dropbox/Projects/respy_fork/package/respy/fortran/shared/shared_types.f90",
+		"/home/janos/Dropbox/Projects/respy_fork/package/respy/fortran/shared/shared_containers.f90",
+		"/home/janos/Dropbox/Projects/respy_fork/package/respy/fortran/shared/shared_constants.f90",
+		"/home/janos/Dropbox/Projects/respy_fork/package/respy/fortran/solve/solve_ambiguity.f90",
+		"/home/janos/Dropbox/Projects/respy_fork/package/respy/fortran/simulate/simulate_auxiliary.f90",
+		"/home/janos/Dropbox/Projects/respy_fork/package/respy/fortran/record/record_ambiguity.f90",
+		"/home/janos/Dropbox/Projects/respy_fork/package/respy/fortran/estimate/estimate_fortran.f90",
+		"/home/janos/Dropbox/Projects/respy_fork/package/respy/fortran/optimizers/optimizers_interfaces.f90",
+		"/home/janos/Dropbox/Projects/respy_fork/package/respy/python/estimate/estimate_wrapper.py",
+		"/home/janos/Dropbox/Projects/respy_fork/package/respy/python/estimate/estimate_python.py",
+		"/home/janos/Dropbox/Projects/respy_fork/package/diff.diff",
+		"/home/janos/Dropbox/Projects/respy_fork/package/respy/tests/test_unit.py",
+		"/home/janos/Dropbox/Projects/respy_fork/package/respy/clsRespy.py",
+		"/home/janos/Dropbox/Projects/respy_fork/package/respy/_scripts/scripts_modify.py",
+		"/home/janos/Dropbox/Projects/respy_fork/package/respy/tests/test_interpolation.py",
+		"/home/janos/Dropbox/Projects/respy_fork/package/respy/_scripts/scripts_update.py",
+		"/home/janos/Dropbox/Projects/respy_fork/package/respy/python/solve/solve_ambiguity.py",
+		"/home/janos/Dropbox/Projects/respy_fork/package/respy/python/record/record_ambiguity.py",
+		"/home/janos/Dropbox/Projects/respy_fork/package/respy/.bld/recording_ambiguity.mod",
+		"/home/janos/.config/sublime-text-3/Packages/User/Flake8Lint.sublime-settings",
+		"/home/janos/Dropbox/Projects/respy_fork/package/doc/source/tutorial.rst",
+		"/home/janos/Dropbox/Projects/respy_fork/package/diff_backup.diff",
+		"/home/janos/Dropbox/Projects/respy_fork/package/respy/tests/test_ambiguity.py"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 124.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "hello/hello.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 484,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								484,
+								484
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, comment, text.plain"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "hello/hello.f90",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 74,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								54,
+								54
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Fortran/grammars/FortranModern.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "setup.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 321,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								217,
+								217
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, comment, text.plain"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "meta.yaml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 303,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								40,
+								40
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 102.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.latextools":
+	{
+		"height": 282.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "hello.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"met",
+				"meta.yaml"
+			],
+			[
+				"estimate",
+				"respy/estimate.py"
+			],
+			[
+				"cls",
+				"respy/clsRespy.py"
+			],
+			[
+				"procesp",
+				"respy/python/process/process_python.py"
+			],
+			[
+				"auca",
+				"development/_modules/auxiliary_career_decision_data.py"
+			],
+			[
+				"proces",
+				"respy/tests/codes/process_constraints.py"
+			],
+			[
+				"random",
+				"respy/tests/codes/random_init.py"
+			],
+			[
+				"runp",
+				"development/testing/property/run_property.py"
+			],
+			[
+				"estimate_w",
+				"respy/python/estimate/estimate_wrapper.py"
+			],
+			[
+				"random_in",
+				"respy/tests/codes/random_init.py"
+			],
+			[
+				"processco",
+				"respy/tests/codes/process_constraints.py"
+			],
+			[
+				"respyc",
+				"respy/clsRespy.py"
+			],
+			[
+				"proc",
+				"respy/python/process/process_python.py"
+			],
+			[
+				"car",
+				"development/_modules/auxiliary_career_decision_data.py"
+			],
+			[
+				"processp",
+				"respy/python/process/process_python.py"
+			],
+			[
+				"proces_p",
+				"respy/python/process/process_python.py"
+			],
+			[
+				"auxiliar",
+				"development/_modules/auxiliary_regression.py"
+			],
+			[
+				"run_re",
+				"development/testing/regression/run_regression.py"
+			],
+			[
+				"runreg",
+				"development/testing/regression/run_regression.py"
+			],
+			[
+				"sharedcon",
+				"respy/python/shared/shared_constants.py"
+			],
+			[
+				"regrru",
+				"development/testing/regression/run_regression.py"
+			],
+			[
+				"prop",
+				"development/testing/property/run_property.py"
+			],
+			[
+				"simulateaxp",
+				"respy/python/simulate/simulate_auxiliary.py"
+			],
+			[
+				"procesau",
+				"respy/python/process/process_auxiliary.py"
+			],
+			[
+				"testver",
+				"respy/tests/test_versions.py"
+			],
+			[
+				"test_ve",
+				"respy/tests/test_versions.py"
+			],
+			[
+				"testpal",
+				"respy/tests/test_parallelism.py"
+			],
+			[
+				"runpr",
+				"development/testing/property/run_property.py"
+			],
+			[
+				"shareda",
+				"respy/fortran/shared/shared_auxiliary.f90"
+			],
+			[
+				"solveauxp",
+				"respy/python/solve/solve_auxiliary.py"
+			],
+			[
+				"solvep",
+				"respy/python/solve/solve_python.py"
+			],
+			[
+				"paral",
+				"respy/fortran/parallelism/parallelism_auxiliary.f90"
+			],
+			[
+				"solveaux",
+				"respy/fortran/solve/solve_auxiliary.f90"
+			],
+			[
+				"solvefor",
+				"respy/fortran/solve/solve_fortran.f90"
+			],
+			[
+				"runre",
+				"development/testing/regression/run_regression.py"
+			],
+			[
+				"test_ver",
+				"respy/tests/test_versions.py"
+			],
+			[
+				".git",
+				".gitignore"
+			],
+			[
+				"testf",
+				"respy/tests/test_f2py.py"
+			],
+			[
+				"recordsol",
+				"respy/fortran/record/record_solution.f90"
+			],
+			[
+				"testparal",
+				"respy/tests/test_parallelism.py"
+			],
+			[
+				"auxpr",
+				"development/_modules/auxiliary_property.py"
+			],
+			[
+				"mail",
+				"development/_modules/clsMail.py"
+			],
+			[
+				"aux",
+				"development/_modules/auxiliary_shared.py"
+			],
+			[
+				"auxiliary.",
+				"respy/tests/codes/auxiliary.py"
+			],
+			[
+				"sharedaux",
+				"respy/fortran/shared/shared_auxiliary.f90"
+			],
+			[
+				"sharedcp",
+				"respy/python/shared/shared_constants.py"
+			],
+			[
+				"clsm",
+				"development/_modules/clsMail.py"
+			],
+			[
+				"sharedconp",
+				"respy/python/shared/shared_constants.py"
+			],
+			[
+				"wscri",
+				"respy/fortran/wscript"
+			],
+			[
+				"wsc",
+				"respy/wscript"
+			],
+			[
+				"waf",
+				"respy/waf"
+			],
+			[
+				"codes.a",
+				"respy/tests/codes/auxiliary.py"
+			],
+			[
+				"reg",
+				"development/testing/regression/run_regression.py"
+			],
+			[
+				"regr",
+				"development/_modules/auxiliary_regression.py"
+			],
+			[
+				"test",
+				"respy/tests/test_f2py.py"
+			],
+			[
+				"kw_test",
+				"respy/tests/resources/kw_test_additions.f90"
+			],
+			[
+				"f2",
+				"respy/tests/resources/f2py_interface.f90"
+			],
+			[
+				"sharedin",
+				"respy/fortran/shared/shared_interface.f90"
+			],
+			[
+				"test_f",
+				"respy/tests/test_f2py.py"
+			],
+			[
+				"wscr",
+				"respy/wscript"
+			],
+			[
+				"test_rest",
+				"respy/tests/test_restud.py"
+			],
+			[
+				"solvepy",
+				"respy/python/solve/solve_python.py"
+			],
+			[
+				"solvepa",
+				"respy/python/solve/solve_auxiliary.py"
+			],
+			[
+				"recordsolp",
+				"respy/python/record/record_solution.py"
+			],
+			[
+				"recordsop",
+				"respy/python/record/record_solution.py"
+			],
+			[
+				"slavef",
+				"respy/fortran/parallelism/parallelism_slave.f90"
+			],
+			[
+				"testpa",
+				"respy/tests/test_parallelism.py"
+			],
+			[
+				"solveauxf",
+				"respy/fortran/solve/solve_auxiliary.f90"
+			],
+			[
+				"solve_for",
+				"respy/fortran/solve/solve_fortran.f90"
+			],
+			[
+				"record_sol",
+				"respy/fortran/record/record_solution.f90"
+			],
+			[
+				"parall",
+				"respy/fortran/parallelism/parallelism_auxiliary.f90"
+			],
+			[
+				"test_pa",
+				"respy/tests/test_parallelism.py"
+			],
+			[
+				"recordestimf",
+				"respy/fortran/record/record_estimation.f90"
+			],
+			[
+				"recordes",
+				"respy/python/record/record_estimation.py"
+			],
+			[
+				"processcon",
+				"respy/tests/codes/process_constraints.py"
+			],
+			[
+				".con",
+				"respy/.config"
+			],
+			[
+				"testreskwdata",
+				"respy/tests/resources/kw_data_one.ini"
+			],
+			[
+				"test_par",
+				"respy/tests/test_parallelism.py"
+			],
+			[
+				"resoukwdata",
+				"respy/tests/resources/kw_data_one.ini"
+			],
+			[
+				"kw",
+				"example/kw_data_one.ini"
+			],
+			[
+				"reliab",
+				"respy/tests/resources/reliability_short.ini"
+			],
+			[
+				"test_integ",
+				"respy/tests/test_integration.py"
+			],
+			[
+				"solveau",
+				"respy/fortran/solve/solve_auxiliary.f90"
+			],
+			[
+				"sol",
+				"respy/fortran/solve/solve_risk.f90"
+			],
+			[
+				"remove",
+				"remove_ambi_dev _backup.diff"
+			],
+			[
+				"dif",
+				"remove_ambi_dev.diff"
+			],
+			[
+				"inter",
+				"respy/tests/resources/f2py_interface.f90"
+			],
+			[
+				".conf",
+				"respy/.config"
+			],
+			[
+				"intedi",
+				"interface.diff"
+			],
+			[
+				"resfort.f",
+				"respy/fortran/resfort.f90"
+			],
+			[
+				"solvefor.f",
+				"respy/fortran/solve/solve_fortran.f90"
+			],
+			[
+				"solvauxf",
+				"respy/fortran/solve/solve_auxiliary.f90"
+			],
+			[
+				"solveambf",
+				"respy/fortran/solve/solve_ambiguity.f90"
+			],
+			[
+				"simauxf",
+				"respy/fortran/simulate/simulate_auxiliary.f90"
+			],
+			[
+				"forsharec",
+				"respy/fortran/shared/shared_constants.f90"
+			],
+			[
+				"sahraxp",
+				"respy/python/shared/shared_auxiliary.py"
+			],
+			[
+				"sharedau",
+				"respy/fortran/shared/shared_auxiliary.f90"
+			],
+			[
+				"recoramf",
+				"respy/fortran/record/record_ambiguity.f90"
+			],
+			[
+				"estimateff",
+				"respy/fortran/estimate/estimate_fortran.f90"
+			],
+			[
+				"forint",
+				"respy/fortran/interface.py"
+			],
+			[
+				"forinter",
+				"respy/fortran/interface.py"
+			],
+			[
+				"interface",
+				"respy/fortran/optimizers/optimizers_interfaces.f90"
+			],
+			[
+				"interface.f",
+				"respy/fortran/shared/shared_interface.f90"
+			],
+			[
+				"estwr",
+				"respy/python/estimate/estimate_wrapper.py"
+			],
+			[
+				"estimate_f",
+				"respy/fortran/estimate/estimate_fortran.f90"
+			],
+			[
+				"estimap",
+				"respy/python/estimate/estimate_python.py"
+			],
+			[
+				"estimatf",
+				"respy/fortran/estimate/estimate_fortran.f90"
+			],
+			[
+				"rem",
+				"remove_ambi_dev.diff"
+			],
+			[
+				"testun",
+				"respy/tests/test_unit.py"
+			],
+			[
+				"testinteg",
+				"respy/tests/test_integration.py"
+			],
+			[
+				"pyinter",
+				"respy/python/interface.py"
+			],
+			[
+				"interf",
+				"respy/fortran/interface.py"
+			],
+			[
+				"di",
+				"diff.diff"
+			],
+			[
+				"testv",
+				"respy/tests/test_versions.py"
+			],
+			[
+				"testinterp",
+				"respy/tests/test_interpolation.py"
+			],
+			[
+				"testi",
+				"respy/tests/test_integration.py"
+			],
+			[
+				"procescon",
+				"respy/tests/codes/process_constraints.py"
+			],
+			[
+				"scriptsupd",
+				"respy/_scripts/scripts_update.py"
+			],
+			[
+				"scriptsmod",
+				"respy/_scripts/scripts_modify.py"
+			],
+			[
+				"solvp",
+				"respy/python/solve/solve_python.py"
+			],
+			[
+				"solvamp",
+				"respy/python/solve/solve_ambiguity.py"
+			],
+			[
+				"simauxp",
+				"respy/python/simulate/simulate_auxiliary.py"
+			],
+			[
+				"sharedcosp",
+				"respy/python/shared/shared_constants.py"
+			],
+			[
+				"sharedp",
+				"respy/python/shared/shared_auxiliary.py"
+			],
+			[
+				"recordesp",
+				"respy/python/record/record_estimation.py"
+			],
+			[
+				"recambp",
+				"respy/python/record/record_ambiguity.py"
+			],
+			[
+				"recorda",
+				"respy/.bld/recording_ambiguity.mod"
+			],
+			[
+				"read_p",
+				"respy/python/read/read_python.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "res",
+		"selected_items":
+		[
+			[
+				"res",
+				"~/Dropbox/Projects/respy_fork/respy.sublime-project"
+			],
+			[
+				"for",
+				"~/Dropbox/Projects/respy_fork/respy.sublime-project"
+			],
+			[
+				"r",
+				"~/Dropbox/Projects/respy_fork/respy.sublime-project"
+			],
+			[
+				"ec",
+				"~/Dropbox/Projects/econ-project-templates/project_templates.sublime-project"
+			],
+			[
+				"",
+				"~/baloo/baloo.sublime-workspace"
+			],
+			[
+				"bal",
+				"~/baloo/baloo.sublime-project"
+			],
+			[
+				"b",
+				"~/baloo/baloo.sublime-project"
+			],
+			[
+				"bl",
+				"~/baloo/baloo.sublime-project"
+			],
+			[
+				"orig",
+				"~/Dropbox/Projects/original_respy/original_respy.sublime-project"
+			],
+			[
+				"or",
+				"~/Dropbox/Projects/original_respy/original_respy.sublime-project"
+			],
+			[
+				"ori",
+				"~/Dropbox/Projects/original_respy/original_respy.sublime-project"
+			],
+			[
+				"o",
+				"~/Dropbox/Projects/original_respy/original_respy.sublime-project"
+			],
+			[
+				"ski",
+				"~/Dropbox/Projects/skillmodels/skillmodels.sublime-project"
+			],
+			[
+				"bloo",
+				"~/baloo/baloo.sublime-project"
+			],
+			[
+				"sk",
+				"~/Dropbox/Projects/skillmodels/skillmodels.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 658.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 206.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
